@@ -2203,6 +2203,12 @@
     <References />
   </Dependency>
   <Dependency>
+    <ModuleName>Pluralsight.Movies</ModuleName>
+    <VirtualPath>~/Modules/Pluralsight.Movies/Pluralsight.Movies.csproj</VirtualPath>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <References />
+  </Dependency>
+  <Dependency>
     <ModuleName>Reports</ModuleName>
     <VirtualPath>~/Core/Reports</VirtualPath>
     <LoaderName>CoreExtensionLoader</LoaderName>

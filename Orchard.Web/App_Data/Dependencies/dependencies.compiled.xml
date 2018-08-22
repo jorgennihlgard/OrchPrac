@@ -295,6 +295,12 @@
     <Hash>490370243af8b47c</Hash>
   </Dependency>
   <Dependency>
+    <ExtensionId>Pluralsight.Movies</ExtensionId>
+    <LoaderName>DynamicExtensionLoader</LoaderName>
+    <VirtualPath>~/Modules/Pluralsight.Movies/Pluralsight.Movies.csproj</VirtualPath>
+    <Hash>214e1997534b511e</Hash>
+  </Dependency>
+  <Dependency>
     <ExtensionId>SysCache</ExtensionId>
     <LoaderName>PrecompiledExtensionLoader</LoaderName>
     <VirtualPath>~/Modules/SysCache/bin/SysCache.dll</VirtualPath>
